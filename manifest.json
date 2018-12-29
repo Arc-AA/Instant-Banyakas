@@ -1,0 +1,14 @@
+{
+  "files": {
+    "index.js": "4a5f52467c1ee518a9c22144218dbe9f4d713387bdf93778794b3a1dfcf71239",
+    "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "module.json": "bfc9c397ac8829973588dfd43363876248bdaa526c12235017781e5fe70fcb07",
+    "README.md": "c7ac8d7cc5ef1706103fc0cf4b4661322667c64abc5b9b396794571b1e7ad02e"
+  },
+  "defs": {
+    "S_LOGIN": 12,
+    "S_LOAD_TOPO": 3,
+    "S_SPAWN_ME": 3,
+    "S_INSTANT_MOVE": 3
+  }
+}
