@@ -1,0 +1,12 @@
+{
+  "files": {
+    "index.js": "4a5f52467c1ee518a9c22144218dbe9f4d713387bdf93778794b3a1dfcf71239",
+    "module.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "defs": {
+    "S_LOGIN": 12,
+    "S_LOAD_TOPO": 3,
+    "S_SPAWN_ME": 3,
+    "S_INSTANT_MOVE": 3
+  }
+}

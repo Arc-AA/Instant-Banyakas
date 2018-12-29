@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "insta-banyakas",
+    "author": "Arc",
+    "description": "Teleports you instantly in front of banyakas when you enter GG",
+    "version": "1.0",
+    "servers": [
+        "https://raw.githubusercontent.com/Arc-AA/Instant-Banyakas/master/"
+    ],
+    "options": {
+        "niceName": "insta banyakas",
+        "guiName": "insta banyakas"
+    }
+}
